@@ -34,7 +34,7 @@ Bootstrap, org.json 라이브러리, AJAX, GRADLE, Spring Security, Spring Boot,
 ![Demonstration](./flowcharts/linco_ERD.png)
 
 ## 화면구성도
-![Demonstration](./flowcharts/screencomposition.png)
+![Demonstration](./flowcharts/구성도.png)
 
 ## 전체 흐름도
 ![Demonstration](./flowcharts/wholeflowpng.png)
