@@ -6,6 +6,11 @@
 
 ![Demonstration](./lincoplay.gif)
 
+
+## [발표영상](https://youtu.be/uAcB5QpwwuA?list=PLedGoSru7949vE2KofRZ2Vg4aINCrD_jQ)
+
+## [화면영상](https://youtu.be/PTivSCbApKk?list=PLedGoSru7949vE2KofRZ2Vg4aINCrD_jQ)
+
 ## 팀명 : NULL NULL
 
 ## 팀원
@@ -57,8 +62,4 @@ Bootstrap, org.json 라이브러리, AJAX, GRADLE, Spring Security, Spring Boot,
 Git, Github
 https://github.com/yehyeonn/LINCO2.git
 
-
-## [발표영상](https://youtu.be/uAcB5QpwwuA?list=PLedGoSru7949vE2KofRZ2Vg4aINCrD_jQ)
-
-## [화면영상](https://youtu.be/PTivSCbApKk?list=PLedGoSru7949vE2KofRZ2Vg4aINCrD_jQ)
 
